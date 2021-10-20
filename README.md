@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Kratika Majhi</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate learner about software development.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kratika947&label=Profile%20views&color=0e75b6&style=flat" alt="kratika947" /> </p>
 
@@ -7,7 +7,9 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🌱 I’m currently learning **C, CPP**
+- 🌱 I’m currently learning **DBMS, Theory of Computation, Agile Software Methodology, Computer Networks**
+
+- 📝 I regularly write articles on [https://www.linkedin.com/in/kratika-majhi/](https://www.linkedin.com/in/kratika-majhi/)
 
 - 💬 Ask me about **Html, CSS**
 
