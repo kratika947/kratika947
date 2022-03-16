@@ -7,11 +7,11 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🌱 I’m currently learning **DBMS, Theory of Computation, Agile Software Methodology, Computer Networks**
+- 🌱 I’m currently learning **OOSE, ML, IoT, Foundation of information Security, DAA, Android application Development**
 
 - 📝 I regularly write articles on [https://www.linkedin.com/in/kratika-majhi/](https://www.linkedin.com/in/kratika-majhi/)
 
-- 💬 Ask me about **Html, CSS**
+- 💬 Ask me about **Html, CSS, Python**
 
 - 📫 How to reach me **kratikamajhi71110@gmail.com**
 
